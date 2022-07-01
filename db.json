@@ -1,0 +1,20 @@
+{
+  "tasks": [],
+  "users": [
+    {
+      "firstname": "Daisy",
+      "lastname": "Mahboob",
+      "id": 2
+    },
+    {
+      "firstname": "Malik",
+      "lastname": "Hannan",
+      "id": 3
+    },
+    {
+      "firstname": "Malik",
+      "lastname": "Muqeet",
+      "id": 4
+    }
+  ]
+}
